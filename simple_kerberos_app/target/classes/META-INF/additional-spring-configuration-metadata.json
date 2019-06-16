@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "security.keytab.file",
+    "type": "java.lang.String",
+    "description": "A description for 'security.keytab.file'"
+  },
+  {
+    "name": "security.service.principal",
+    "type": "java.lang.String",
+    "description": "A description for 'security.service.principal'"
+  }
+]}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: simple_kerberos_app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Islam Abdo
+Implementation-Vendor-Id: com.mazeed
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
